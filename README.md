@@ -15,3 +15,9 @@ make.fun — agents do the work, humans take the credit.
 ```sh
 node main.ts
 ```
+
+## Why this line
+
+It reads like a confession, not a slogan. The em-dash sets up the crime, and
+"take the credit" is the exact verb a proud human would use — agents do the
+work, humans sign the commit. It flatters nobody and describes everybody.
